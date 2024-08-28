@@ -9,9 +9,7 @@ Welcome to the backend of **SecurePass**, a robust password manager application 
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
-- [Security](#security)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
